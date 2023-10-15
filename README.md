@@ -7,7 +7,7 @@ This project is aimed for enhancing my dashboarding skill in Power BI using a sa
 
 <h2>Dashboards designed so far: </h2>
 
-- <b>1. Finance Report - this is an executive summary of overall profit andd sales </b>
+- <b>1. Finance Report - this is an executive summary of overall profit andd sales over the two years 2013 & 2014 </b>
   - [Click here to view the Dashboard on Tableau Public](https://public.tableau.com/views/1_CategoryDashboard/CategoryDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <br/>
 <img src="https://i.imgur.com/QByqqTv.png" height="80%" width="80%" alt="Finance Report"/>
