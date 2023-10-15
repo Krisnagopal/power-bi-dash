@@ -11,7 +11,7 @@ This project is aimed for enhancing my dashboarding skill in Power BI using a sa
 
 <img src="https://i.imgur.com/QByqqTv.png" height="80%" width="80%" alt="Finance Report"/>
 <br />
-It is clear that "Paseo" product has performed the best in sales and "Government" & "Small Business" are the two segments with highest sales. Then European countries generates more profit than North American countries. From the trendline, profit seems to remain inconsistent over the twoo years.
+It is clear that "Paseo" product has performed the best in sales and "Government" & "Small Business" are the two segments with highest sales. Then European countries generates more profit than North American countries. From the trendline, profit seems to remain inconsistent over the two years.
 
 
 <!--
