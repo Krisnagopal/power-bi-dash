@@ -2,7 +2,7 @@
 <h1> Power BI Dashboard Building (practice) Project </h1>
 
 <h2>Description</h2>
-This project is aimed for enhancing my dashboarding skill in Power BI using a sample big dataset of a fictious global company.
+This is actually an ongoing project, aimed for enhancing my dashboarding skill (continuously) in Power BI using a sample big dataset of a fictious global company.
 <br />
 
 <h2>Dashboards designed so far: </h2>
